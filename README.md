@@ -1,5 +1,4 @@
 ### Hi there 👋
-
-- 个人网站：https://liguwe.github.io
+- 博客：https://liguwe.github.io
 - 语雀：https://yuque.com/liguwe
-- Email： liguwe@qq.com
+- 邮箱：liguwe@qq.com
