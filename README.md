@@ -6,7 +6,7 @@
 ![AI Product Builder](https://img.shields.io/badge/-AI%20Product%20Builder-059669?style=flat-square)
 ![Personal OS](https://img.shields.io/badge/-Personal%20OS-F59E0B?style=flat-square)
 
-> 面向 `AI-Native`，用 `Agent` 解决真实问题，`全栈`构建`产品`，以 `832OS` 持续交付。
+> 面向 AI-Native，与 Agent 解决真实问题，全栈构建产品，以 832OS 持续交付。
 
 ## GitHub Activity
 
@@ -15,7 +15,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [127. 飞书CLi 和 飞书 MCP 实践](https://liguwe.site/blog/127)
+- [127. 飞书 CLi 和 飞书 MCP 实践](https://liguwe.site/blog/127)
 - [126. 播客：模型是下一代 OS、语言即世界，代码即方案](https://liguwe.site/blog/126)
 - [125. 播客：AI 时代，聪明不如靠谱](https://liguwe.site/blog/125)
 - [124. 播客：AI 转型没戏，得重新投胎](https://liguwe.site/blog/124)
