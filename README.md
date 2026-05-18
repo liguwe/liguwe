@@ -31,6 +31,7 @@
 ## Connect
 
 [![Blog](https://img.shields.io/badge/-liguwe.site-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://liguwe.site)
+[![Yuque](https://img.shields.io/badge/-Yuque-25B864?style=flat-square&logo=yuque&logoColor=white)](https://www.yuque.com/liguwe)
 [![Email](https://img.shields.io/badge/-liguwe%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:liguwe@qq.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/liguwe)
 [![Recent Issues](https://img.shields.io/badge/-Recent%20Issues-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/issues/SSC_kgDOACQsIQ)
