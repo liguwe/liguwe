@@ -1,18 +1,12 @@
-# Hi, I'm Guangwei Li 👋
+### 欢迎访问 🍀🍀🍀
 
-📍 **Beijing, China** | 🧠 **Personal Systems** | 🤖 **AI-assisted Workflows**
+![AI-Native](https://img.shields.io/badge/-AI--Native-7C3AED?style=flat-square)
+![Agent Engineer](https://img.shields.io/badge/-Agent%20Engineer-0EA5E9?style=flat-square)
+![Full-Stack Builder](https://img.shields.io/badge/-Full--Stack%20Builder-2563EB?style=flat-square)
+![AI Product Builder](https://img.shields.io/badge/-AI%20Product%20Builder-059669?style=flat-square)
+![Personal OS](https://img.shields.io/badge/-Personal%20OS-F59E0B?style=flat-square)
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-> Building personal knowledge systems and AI-assisted workflows. Writing and shipping at liguwe.site.
+> 面向 AI-Native，用 Agent 解决真实问题，全栈构建产品，以 832OS 持续交付。
 
 ## GitHub Activity
 
@@ -34,5 +28,3 @@
 [![Yuque](https://img.shields.io/badge/-Yuque-25B864?style=flat-square&logo=yuque&logoColor=white)](https://www.yuque.com/liguwe)
 [![Email](https://img.shields.io/badge/-liguwe%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:liguwe@qq.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/liguwe)
-[![Recent Issues](https://img.shields.io/badge/-Recent%20Issues-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/issues/SSC_kgDOACQsIQ)
-[![Issues Board](https://img.shields.io/badge/-Issues%20Board-0969DA?style=flat-square&logo=githubprojects&logoColor=white)](https://github.com/users/liguwe/projects/7/views/2)
