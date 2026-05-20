@@ -16,7 +16,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [131. 播客：当软件容易被创作，新时代的产品长什么样？](https://liguwe.site/blog/131)
-- [128. 接下来的主线：code-agent-lab](https://liguwe.site/blog/128)
+- [128. 接下来的主线：general-agent-lab](https://liguwe.site/blog/128)
 - [127. 飞书 CLi 和 飞书 MCP 实践](https://liguwe.site/blog/127)
 - [126. 播客：模型是下一代 OS、语言即世界，代码即方案](https://liguwe.site/blog/126)
 - [125. 播客：AI 时代，聪明不如靠谱](https://liguwe.site/blog/125)
