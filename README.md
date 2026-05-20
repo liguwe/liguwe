@@ -8,6 +8,10 @@
 
 > 面向 AI-Native，与 Agent 解决真实问题，全栈构建产品，以 832OS 持续交付。
 
+## Focus on
+
+[general-agent-lab](https://github.com/liguwe/general-agent-lab)
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/liguwe)
