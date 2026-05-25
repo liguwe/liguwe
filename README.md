@@ -19,7 +19,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [140. 好文：Railway创始人分享 35 人团队如何服务300万用户](https://liguwe.site/blog/140)
+- [140. 好文：Railway 创始人分享 35 人团队如何服务300万用户](https://liguwe.site/blog/140)
 - [139. 看起来勤奋，实则在偷懒；一直在准备，始终没开始。](https://liguwe.site/blog/139)
 - [137. 周报：大胆的压缩，不要担心遗漏](https://liguwe.site/blog/137)
 - [136. Agent = Model + Harness](https://liguwe.site/blog/136)
