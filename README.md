@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [148. 把工作环境塞进Codex、Cursor 中：连接公司研发平台](https://liguwe.site/blog/148)
 - [140. 好文：Railway 创始人分享 35 人团队如何服务300万用户](https://liguwe.site/blog/140)
 - [139. 看起来勤奋，实则在偷懒；一直在准备，始终没开始。](https://liguwe.site/blog/139)
 - [137. 周报：大胆的压缩，不要担心遗漏](https://liguwe.site/blog/137)
 - [136. Agent = Model + Harness](https://liguwe.site/blog/136)
-- [135. 播客：探秘 Claude Code，搞懂 Agent Harness](https://liguwe.site/blog/135)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
