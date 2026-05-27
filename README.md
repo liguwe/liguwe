@@ -21,9 +21,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [148. 把工作环境塞进Codex、Cursor 中：连接公司研发平台](https://liguwe.site/blog/148)
 - [142. 播客：AI悖论：自动化越多，人越重要，Dan Shipper 预测未来一年工作方式巨变](https://liguwe.site/blog/142)
+- [141. 播客：一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪](https://liguwe.site/blog/141)
 - [140. 好文：Railway 创始人分享 35 人团队如何服务300万用户](https://liguwe.site/blog/140)
 - [139. 看起来勤奋，实则在偷懒；一直在准备，始终没开始。](https://liguwe.site/blog/139)
-- [137. 周报：大胆的压缩，不要担心遗漏](https://liguwe.site/blog/137)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
