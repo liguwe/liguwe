@@ -19,7 +19,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [151. 播客：模型是处理器，Harness 是 OS，逼自己把token用完，就是一种刻意练习](https://liguwe.site/blog/151)
+- [151. 播客：模型是处理器，Harness 是 OS，逼自己把 token 用完，就是一种刻意练习](https://liguwe.site/blog/151)
 - [150. Zed编辑器启示：Agent 最大的问题不是不会做，而是让人等](https://liguwe.site/blog/150)
 - [149. 关于 CLI：它是 Agent 的底层，但不是人的主界面](https://liguwe.site/blog/149)
 - [148. 把工作环境塞进Codex、Cursor 中：连接公司研发平台](https://liguwe.site/blog/148)
