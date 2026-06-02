@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [155. CLI 入口层：为什么用 Node shim 包原生二进制](https://liguwe.site/blog/155)
+- [154. 使用 submodule 来管理 codex 和 opencode](https://liguwe.site/blog/154)
 - [152. 月报：2026.05：别再证明系统有多合理了，直接证明系统有产出；语音输入已经成熟，会带来输入侧带宽升级](https://liguwe.site/blog/152)
 - [151. 播客：模型是处理器，Harness 是 OS，逼自己把 token 用完，就是一种刻意练习](https://liguwe.site/blog/151)
 - [150. Zed编辑器启示：Agent 最大的问题不是不会做，而是让人等](https://liguwe.site/blog/150)
-- [149. 关于 CLI：它是 Agent 的底层，但不是人的主界面](https://liguwe.site/blog/149)
-- [148. 把工作环境塞进Codex、Cursor 中：连接公司研发平台](https://liguwe.site/blog/148)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
