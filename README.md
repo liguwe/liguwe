@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [160. 播客：算力突围、递归进化、 Harness 时代的数据飞轮](https://liguwe.site/blog/160)
 - [158. 播客：AI 很大，让子弹飞一会儿](https://liguwe.site/blog/158)
 - [157. 播客：不要垫着脚尖过日子](https://liguwe.site/blog/157)
 - [155. CLI 入口层：为什么用 Node shim 包原生二进制](https://liguwe.site/blog/155)
 - [154. 使用 submodule 来管理 codex 和 opencode](https://liguwe.site/blog/154)
-- [152. 月报：2026.05：别再证明系统有多合理了，直接证明系统有产出；语音输入已经成熟，会带来输入侧带宽升级](https://liguwe.site/blog/152)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
