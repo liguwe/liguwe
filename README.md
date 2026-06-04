@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [164. 播客：AI 时代的自处、求真与认知闭环](https://liguwe.site/blog/164)
 - [163. 播客：世界已无龙，老手艺人在 AI 时代的直觉防线与手搓坚守](https://liguwe.site/blog/163)
 - [162. 播客：🎯亲历AlphaGo奇点后，我成了"人奸"](https://liguwe.site/blog/162)
 - [161. 播客：“神之一手”是损招](https://liguwe.site/blog/161)
 - [160. 播客：算力突围、递归进化、 Harness 时代的数据飞轮](https://liguwe.site/blog/160)
-- [158. 播客：AI 很大，让子弹飞一会儿](https://liguwe.site/blog/158)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
