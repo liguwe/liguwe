@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [178. 播客：AI 会消灭掉“上个破班儿”的感觉](https://liguwe.site/blog/178)
+- [177. 播客：OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动](https://liguwe.site/blog/177)
+- [176. 播客：AI 时代的“五层蛋糕”、Token 经济学与被误解的泡沫](https://liguwe.site/blog/176)
+- [175. 播客：杰弗里·辛顿：如何面对 AI 失控焦虑，超级智能临近下的人类位置之争](https://liguwe.site/blog/175)
 - [165. 播客：沉默的主角](https://liguwe.site/blog/165)
-- [164. 播客：AI 时代的自处、求真与认知闭环](https://liguwe.site/blog/164)
-- [163. 播客：世界已无龙，老手艺人在 AI 时代的直觉防线与手搓坚守](https://liguwe.site/blog/163)
-- [162. 播客：🎯亲历AlphaGo奇点后，我成了"人奸"](https://liguwe.site/blog/162)
-- [161. 播客：“神之一手”是损招](https://liguwe.site/blog/161)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
