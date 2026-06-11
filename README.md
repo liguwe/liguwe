@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [181. 播客：高手怎么用 AI？普通人怎么学 AI？](https://liguwe.site/blog/181)
 - [178. 播客：AI 会消灭掉“上个破班儿”的感觉](https://liguwe.site/blog/178)
 - [177. 播客：OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动](https://liguwe.site/blog/177)
 - [176. 播客：AI 时代的“五层蛋糕”、Token 经济学与被误解的泡沫](https://liguwe.site/blog/176)
 - [175. 播客：杰弗里·辛顿：如何面对 AI 失控焦虑，超级智能临近下的人类位置之争](https://liguwe.site/blog/175)
-- [165. 播客：沉默的主角](https://liguwe.site/blog/165)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
