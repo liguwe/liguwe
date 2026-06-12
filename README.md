@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [187. 复盘：老系统自动化的真实 ROI ，一定要问是真需求吗？](https://liguwe.site/blog/187)
 - [185. 播客：宏观悲观和你没关系、少让故事带走，多让行动带路](https://liguwe.site/blog/185)
 - [183. 播客：工程师如何放大生产力，AI 重塑团队分工的通才时代](https://liguwe.site/blog/183)
 - [182. 播客：AI 时代如何做出真正有品味的产品，在快软件浪潮中保持人的判断](https://liguwe.site/blog/182)
 - [181. 播客：高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？](https://liguwe.site/blog/181)
-- [178. 播客：AI 会消灭掉“上个破班儿”的感觉](https://liguwe.site/blog/178)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
