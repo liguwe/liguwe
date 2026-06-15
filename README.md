@@ -10,7 +10,7 @@
 
 ## Focus on
 
-[general-agent-lab](https://github.com/liguwe/general-agent-lab)
+[HarnessX](https://github.com/liguwe/harnessx)
 
 ## GitHub Activity
 
