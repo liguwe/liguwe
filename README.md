@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [195. 播客：不要往 AI 的方向卷，要往人的方向卷](https://liguwe.site/blog/195)
 - [194. 播客：泡沫不能预测，但可以管理自己要冒多大风险](https://liguwe.site/blog/194)
 - [187. 复盘：老系统自动化的真实 ROI ，一定要问是真需求吗？](https://liguwe.site/blog/187)
 - [185. 播客：宏观悲观和你没关系、少让故事带走，多让行动带路](https://liguwe.site/blog/185)
 - [183. 播客：工程师如何放大生产力，AI 重塑团队分工的通才时代](https://liguwe.site/blog/183)
-- [182. 播客：AI 时代如何做出真正有品味的产品，在快软件浪潮中保持人的判断](https://liguwe.site/blog/182)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
