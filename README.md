@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [201. 播客：元明清七百年：财政如何塑造帝国命运](https://liguwe.site/blog/201)
+- [200. 播客：知识的缝隙、大猩猩理论、费曼学习法](https://liguwe.site/blog/200)
+- [199. 播客：做自己喜欢的事，先用对的事筛掉错的事](https://liguwe.site/blog/199)
 - [198. 播客：没有中间地带、大国AI博弈、效率碾压、白领的恩格斯暂停](https://liguwe.site/blog/198)
 - [197. 播客：我们未来三五十年的大趋势](https://liguwe.site/blog/197)
-- [195. 播客：不要往 AI 的方向卷，要往人的方向卷](https://liguwe.site/blog/195)
-- [194. 播客：泡沫不能预测，但可以管理自己要冒多大风险](https://liguwe.site/blog/194)
-- [187. 复盘：老系统自动化的真实 ROI ，一定要问是真需求吗？](https://liguwe.site/blog/187)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
