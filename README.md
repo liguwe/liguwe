@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [198. 播客：没有中间地带、大国AI博弈、效率碾压、白领的恩格斯暂停](https://liguwe.site/blog/198)
+- [197. 播客：我们未来三五十年的大趋势](https://liguwe.site/blog/197)
 - [195. 播客：不要往 AI 的方向卷，要往人的方向卷](https://liguwe.site/blog/195)
 - [194. 播客：泡沫不能预测，但可以管理自己要冒多大风险](https://liguwe.site/blog/194)
 - [187. 复盘：老系统自动化的真实 ROI ，一定要问是真需求吗？](https://liguwe.site/blog/187)
-- [185. 播客：宏观悲观和你没关系、少让故事带走，多让行动带路](https://liguwe.site/blog/185)
-- [183. 播客：工程师如何放大生产力，AI 重塑团队分工的通才时代](https://liguwe.site/blog/183)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
