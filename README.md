@@ -19,7 +19,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [214. 技术：HarnessX 第 0 课：先让 hx 命令跑起来、Agent 的第一性原理其实就一个 HTTP 接口](https://liguwe.site/blog/214)
+- [214. 技术：HarnessX 第 0 课：先让 hx 命令跑起来、Agent 的第一性原理](https://liguwe.site/blog/214)
 - [211. 播客：纳瓦尔：上场实战、特定知识和真实反馈](https://liguwe.site/blog/211)
 - [209. 播客：鱼不存在](https://liguwe.site/blog/209)
 - [204. 播客：让万物穿过自己](https://liguwe.site/blog/204)
