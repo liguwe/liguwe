@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [222. 技术：HarnessX 第 4 课：把权限、日志和收尾统计挂到 Hooks 上，让 Agent Loop 保持干净](https://liguwe.site/blog/222)
 - [221. 技术：HarnessX 第 3 课：在工具真正执行前加权限门，让 Agent 先判断 allow、ask、deny](https://liguwe.site/blog/221)
 - [219. 技术：HarnessX 第 2 课：把工具调用从一个 bash 扩展成工具分发表，让 Agent 能读写和查找文件](https://liguwe.site/blog/219)
 - [218. 技术：HarnessX 第 1 课：Agent 循环，本质就是一个会反复调用模型、执行工具、回传结果的 while 循环](https://liguwe.site/blog/218)
 - [214. 技术：HarnessX 第 0 课：先让 hx 命令跑起来、Agent 的第一性原理](https://liguwe.site/blog/214)
-- [211. 播客：纳瓦尔：上场实战、特定知识和真实反馈](https://liguwe.site/blog/211)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
