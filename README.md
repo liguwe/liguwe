@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [227. 技术：HarnessX 第 6 课：给 Agent 加 task 子代理，让局部探索不污染主上下文](https://liguwe.site/blog/227)
 - [226. 技术：HarnessX 第 5 课：给 Agent 加 todo_write，让长任务先有计划、执行中能更新状态](https://liguwe.site/blog/226)
 - [225. 播客：宿命与反抗 - 康波能完美接住焦虑，你可以考虑宏观，但做事的还是你自己](https://liguwe.site/blog/225)
 - [222. 技术：HarnessX 第 4 课：把权限、日志和收尾统计挂到 Hooks 上，让 Agent Loop 保持干净](https://liguwe.site/blog/222)
 - [221. 技术：HarnessX 第 3 课：在工具真正执行前加权限门，让 Agent 先判断 allow、ask、deny](https://liguwe.site/blog/221)
-- [219. 技术：HarnessX 第 2 课：把工具调用从一个 bash 扩展成工具分发表，让 Agent 能读写和查找文件](https://liguwe.site/blog/219)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
