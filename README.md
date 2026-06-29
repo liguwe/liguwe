@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [238. 技术：HarnessX 第 10 课：让 System Prompt 根据真实状态组装，context 不变就复用缓存](https://liguwe.site/blog/238)
 - [235. 技术：HarnessX 第 9 课：给 Agent 加长期记忆，让稳定偏好跨会话留下来](https://liguwe.site/blog/235)
 - [231. 播客：你是不是在狡辩？最关键的是往前走、把手弄脏、规模效应和共生演化](https://liguwe.site/blog/231)
 - [229. 技术：HarnessX 第 8 课：给 Agent 加上下文压缩，让工具输出别把 messages 撑爆](https://liguwe.site/blog/229)
 - [228. 技术：HarnessX 第 7 课：用 load_skill 按需加载项目规则，让 Agent 不把所有 Skill 都塞进 system prompt](https://liguwe.site/blog/228)
-- [227. 技术：HarnessX 第 6 课：给 Agent 加 task 子代理，让局部探索不污染主上下文](https://liguwe.site/blog/227)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
