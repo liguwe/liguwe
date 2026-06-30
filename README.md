@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [248. 技术：HarnessX 第 15 课：让 Lead 拉起队友线程，用文件邮箱把一个 Agent 的压力拆成团队协作](https://liguwe.site/blog/248)
 - [247. 技术：HarnessX 第 14 课：让定时任务到点自动进入 Agent Loop，用调度器、队列和空闲交付拆开时间与执行](https://liguwe.site/blog/247)
 - [246. 技术：HarnessX 第 13 课：让慢 bash 先进后台，完成后用通知回到 Agent Loop](https://liguwe.site/blog/246)
 - [245. 技术：HarnessX 第 12 课：便签、任务板、用持久化任务板让大目标按依赖顺序推进](https://liguwe.site/blog/245)
 - [243. 技术：HarnessX 第 11 课：让 Agent 识别三类模型故障，用重试、压缩和续写恢复执行](https://liguwe.site/blog/243)
-- [242. 博客：AI 时代真正稀缺的不是代码细节，而是把流程、边界和 SOP 讲到人和 Agent 都能听懂就好了，别惯性的去和 AI 争“好的代码实现”](https://liguwe.site/blog/242)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
