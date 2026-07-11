@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [274. 复盘：从 0.1 长出来，不要让 AI 先生成 10000](https://liguwe.site/blog/274)
 - [270. 博客：个人技能要从真实使用中长出来](https://liguwe.site/blog/270)
 - [254. 播客：成为好心态的总设计师](https://liguwe.site/blog/254)
 - [251. 图解：商业思维、规模效应与演化思维](https://liguwe.site/blog/251)
 - [248. 技术：HarnessX 第 15 课：让 Lead 拉起队友线程，用文件邮箱把一个 Agent 的压力拆成团队协作](https://liguwe.site/blog/248)
-- [247. 技术：HarnessX 第 14 课：让定时任务到点自动进入 Agent Loop，用调度器、队列和空闲交付拆开时间与执行](https://liguwe.site/blog/247)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
