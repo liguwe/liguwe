@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [277. 播客：中道、道理、自相矛盾的人生建议](https://liguwe.site/blog/277)
 - [275. 复盘：当前最严重的 5 个问题](https://liguwe.site/blog/275)
 - [274. 复盘：从 0.1 长出来，不要让 AI 先生成 10000](https://liguwe.site/blog/274)
 - [270. 博客：个人技能要从真实使用中长出来](https://liguwe.site/blog/270)
 - [254. 播客：成为好心态的总设计师](https://liguwe.site/blog/254)
-- [251. 图解：商业思维、规模效应与演化思维](https://liguwe.site/blog/251)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
