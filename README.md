@@ -19,11 +19,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [311. 教程：什么是智能体？](https://liguwe.site/blog/311)
+- [312. Agent：智能体发展史](https://liguwe.site/blog/312)
+- [311. Agent：什么是智能体？](https://liguwe.site/blog/311)
 - [308. 精读：一个人如何管理几十个 AI 程序员？](https://liguwe.site/blog/308)
 - [298. 播客：还能怎么办，只能用真心](https://liguwe.site/blog/298)
 - [277. 播客：中道、道理、自相矛盾的人生建议](https://liguwe.site/blog/277)
-- [275. 复盘：当前最严重的 5 个问题](https://liguwe.site/blog/275)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
