@@ -1,16 +1,19 @@
 ## 欢迎访问 🍀🍀🍀
 
-![AI-Native](https://img.shields.io/badge/-AI--Native-7C3AED?style=flat-square)
-![Agent Engineer](https://img.shields.io/badge/-Agent%20Engineer-0EA5E9?style=flat-square)
-![Full-Stack Builder](https://img.shields.io/badge/-Full--Stack%20Builder-2563EB?style=flat-square)
-![AI Product Builder](https://img.shields.io/badge/-AI%20Product%20Builder-059669?style=flat-square)
-![Personal OS](https://img.shields.io/badge/-Personal%20OS-F59E0B?style=flat-square)
+![FDE](https://img.shields.io/badge/-FDE-059669?style=flat-square)
+![AgentX](https://img.shields.io/badge/-AgentX-0EA5E9?style=flat-square)
+![HarnessX](https://img.shields.io/badge/-HarnessX-7C3AED?style=flat-square)
+![832OS](https://img.shields.io/badge/-832OS-F59E0B?style=flat-square)
 
-> 面向 AI-Native，与 Agent 解决真实问题，全栈构建产品，以 832OS 持续交付。
+> 从 FED（前端开发）转向 FDE（前沿部署工程师）。AgentX 解决“做什么”，HarnessX 解决“怎么跑”，FDE 对“客户是否成功”负责。
 
-## Focus on
+## Current Goal
 
-[HarnessX](https://github.com/liguwe/HarnessX)
+成功转型 FDE，找到下一份以 FDE 为职业目标的 AI Agent 相关工作。
+
+- AgentX：Agent 应用层。
+- HarnessX：Agent 运行层。
+- FDE：客户交付与客户成功。
 
 ## GitHub Activity
 
@@ -19,9 +22,9 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [313. Agent：什么是智能体（篇二：案例篇）](https://liguwe.site/blog/313)
-- [312. Agent：智能体发展史](https://liguwe.site/blog/312)
-- [311. Agent：什么是智能体（篇一：概念篇）](https://liguwe.site/blog/311)
+- [313. AgentX：什么是智能体（篇二：案例篇）](https://liguwe.site/blog/313)
+- [312. AgentX：智能体发展史](https://liguwe.site/blog/312)
+- [311. AgentX：什么是智能体（篇一：概念篇）](https://liguwe.site/blog/311)
 - [308. 精读：一个人如何管理几十个 AI 程序员？](https://liguwe.site/blog/308)
 - [298. 播客：还能怎么办，只能用真心](https://liguwe.site/blog/298)
 <!-- BLOG-POST-LIST:END -->
