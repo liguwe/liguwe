@@ -10,7 +10,7 @@
 
 ## Focus on
 
-[HarnessX](https://github.com/liguwe/harnessx)
+[HarnessX](https://github.com/liguwe/HarnessX)
 
 ## GitHub Activity
 
