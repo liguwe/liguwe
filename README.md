@@ -5,7 +5,7 @@
 ![HarnessX](https://img.shields.io/badge/-HarnessX-7C3AED?style=flat-square)
 ![832OS](https://img.shields.io/badge/-832OS-F59E0B?style=flat-square)
 
-> 从 FED（前端开发）转向 FDE（前沿部署工程师）。AgentX 解决“做什么”，HarnessX 解决“怎么跑”，FDE 对“客户是否成功”负责。
+> 从 FED（前端开发）转向 FDE（前沿部署工程师）。FDE 对客户成功负责；AgentX 是应用层，HarnessX 是运行层。
 
 ## Current Goal
 
