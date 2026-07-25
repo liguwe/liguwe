@@ -18,7 +18,6 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [313. AgentX：什么是智能体（篇二：案例篇）](https://liguwe.site/blog/313)
 - [312. AgentX：智能体发展史](https://liguwe.site/blog/312)
 - [311. AgentX：什么是智能体（篇一：概念篇）](https://liguwe.site/blog/311)
