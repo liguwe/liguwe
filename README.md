@@ -7,9 +7,7 @@
 
 ## Current Goal：FED → FDE
 
-- AgentX：Agent 应用层。
-- HarnessX：Agent 运行层。
-- FDE：客户交付与客户成功。
+只在电脑前，已经走不远了。走进客户现场，从真实需求出发，对客户成功负责。
 
 ## GitHub Activity
 
