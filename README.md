@@ -5,11 +5,7 @@
 ![HarnessX](https://img.shields.io/badge/-HarnessX-7C3AED?style=flat-square)
 ![832OS](https://img.shields.io/badge/-832OS-F59E0B?style=flat-square)
 
-> 从 FED（前端开发）转向 FDE（前沿部署工程师）。FDE 对客户成功负责；AgentX 是应用层，HarnessX 是运行层。
-
-## Current Goal
-
-成功转型 FDE，找到下一份以 FDE 为职业目标的 AI Agent 相关工作。
+## Current Goal：FED → FDE
 
 - AgentX：Agent 应用层。
 - HarnessX：Agent 运行层。
@@ -22,6 +18,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [313. AgentX：什么是智能体（篇二：案例篇）](https://liguwe.site/blog/313)
 - [312. AgentX：智能体发展史](https://liguwe.site/blog/312)
 - [311. AgentX：什么是智能体（篇一：概念篇）](https://liguwe.site/blog/311)
