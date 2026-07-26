@@ -16,11 +16,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [326. AgentX：《大模型应用开发极简入门》：前言](https://liguwe.site/blog/326)
 - [313. AgentX：什么是智能体（篇二：案例篇）](https://liguwe.site/blog/313)
 - [312. AgentX：智能体发展史](https://liguwe.site/blog/312)
 - [311. AgentX：什么是智能体（篇一：概念篇）](https://liguwe.site/blog/311)
 - [308. 精读：一个人如何管理几十个 AI 程序员？](https://liguwe.site/blog/308)
-- [298. 播客：还能怎么办，只能用真心](https://liguwe.site/blog/298)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
