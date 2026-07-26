@@ -16,11 +16,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [327. AgentX：《大模型应用开发极简入门》1.1：LLM 为什么能根据上下文逐个生成 Token](https://liguwe.site/blog/327)
 - [326. AgentX：《大模型应用开发极简入门》：前言](https://liguwe.site/blog/326)
 - [313. AgentX：什么是智能体（篇二：案例篇）](https://liguwe.site/blog/313)
 - [312. AgentX：智能体发展史](https://liguwe.site/blog/312)
 - [311. AgentX：什么是智能体（篇一：概念篇）](https://liguwe.site/blog/311)
-- [308. 精读：一个人如何管理几十个 AI 程序员？](https://liguwe.site/blog/308)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
