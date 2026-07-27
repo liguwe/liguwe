@@ -16,11 +16,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [328. AgentX：《大模型应用开发极简入门》：GPT 只有 Decoder，为什么翻译也挺好？](https://liguwe.site/blog/328)
 - [327. AgentX：《大模型应用开发极简入门》：LLM 为什么能根据上下文逐个生成 Token](https://liguwe.site/blog/327)
 - [326. AgentX：《大模型应用开发极简入门》：前言](https://liguwe.site/blog/326)
 - [313. AgentX：什么是智能体（篇二：案例篇）](https://liguwe.site/blog/313)
 - [312. AgentX：智能体发展史](https://liguwe.site/blog/312)
-- [311. AgentX：什么是智能体（篇一：概念篇）](https://liguwe.site/blog/311)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
