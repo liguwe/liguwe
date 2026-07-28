@@ -16,11 +16,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [333. AgentX：从模型 API 到 Agent 应用，还差什么？](https://liguwe.site/blog/333)
 - [332. AgentX：DeepSeek API，我最少需要知道什么？](https://liguwe.site/blog/332)
 - [331. AgentX：GPT-1 到 GPT-5.6，我最少需要知道什么？](https://liguwe.site/blog/331)
 - [328. AgentX：GPT 只有 Decoder，为什么翻译也挺好？](https://liguwe.site/blog/328)
 - [327. AgentX：LLM 为什么能根据上下文逐个生成 Token](https://liguwe.site/blog/327)
-- [326. AgentX：传统软件开发 → 大模型应用开发](https://liguwe.site/blog/326)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
