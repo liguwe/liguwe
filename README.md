@@ -16,11 +16,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [341. AgentX：LlamaIndex 是什么，我什么时候需要它？](https://liguwe.site/blog/341)
 - [340. AgentX：LangChain 入门：它解决什么问题，怎样搭出第一个 Agent？](https://liguwe.site/blog/340)
 - [339. AgentX：DeepSeek 的 logprobs 到底有什么用？](https://liguwe.site/blog/339)
 - [338. 播客：成为一个合格的基金持有人](https://liguwe.site/blog/338)
 - [337. 播客：人生最有价值的时刻，也许是那些对未来充满期待与不安之时](https://liguwe.site/blog/337)
-- [336. ProductX：豆包和微信语音输入法怎样把我说的话变成可编辑文字？](https://liguwe.site/blog/336)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
