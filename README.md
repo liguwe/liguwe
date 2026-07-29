@@ -18,9 +18,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [338. 播客：成为一个合格的基金持有人](https://liguwe.site/blog/338)
 - [337. 播客：人生最有价值的时刻，也许是那些对未来充满期待与不安之时](https://liguwe.site/blog/337)
+- [334. AgentX：从 0 到 1 构建一个可以和 PDF 对话的 RAG 系统](https://liguwe.site/blog/334)
 - [333. AgentX：从模型 API 到 Agent 应用，还差什么？](https://liguwe.site/blog/333)
 - [332. AgentX：DeepSeek API，我最少需要知道什么？](https://liguwe.site/blog/332)
-- [331. AgentX：GPT-1 到 GPT-5.6，我最少需要知道什么？](https://liguwe.site/blog/331)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
