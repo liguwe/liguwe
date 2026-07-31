@@ -16,11 +16,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [344. AgentX：词频统计（词袋）和 word2vec：文字怎样变成可比较的数字？](https://liguwe.site/blog/344)
 - [343. AgentX：语言人工智能能完成哪些工作？](https://liguwe.site/blog/343)
 - [341. AgentX：LlamaIndex 是什么，我什么时候需要它？](https://liguwe.site/blog/341)
 - [340. AgentX：LangChain 入门：它解决什么问题，怎样搭出第一个 Agent？](https://liguwe.site/blog/340)
 - [339. AgentX：DeepSeek 的 logprobs 到底有什么用？](https://liguwe.site/blog/339)
-- [338. 播客：成为一个合格的基金持有人](https://liguwe.site/blog/338)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
