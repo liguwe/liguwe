@@ -16,11 +16,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [354. Python 篇一：装饰器、async 与类型、函数参数默认值](https://liguwe.site/blog/354)
 - [349. 博客：For FDE or For POC，应该如何选择默认技术栈？](https://liguwe.site/blog/349)
 - [344. AgentX：词频统计（词袋）和 word2vec：文字怎样变成可比较的数字？](https://liguwe.site/blog/344)
 - [343. AgentX：语言人工智能能完成哪些工作？](https://liguwe.site/blog/343)
 - [341. AgentX：LlamaIndex 是什么，我什么时候需要它？](https://liguwe.site/blog/341)
-- [340. AgentX：LangChain 入门：它解决什么问题，怎样搭出第一个 Agent？](https://liguwe.site/blog/340)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
