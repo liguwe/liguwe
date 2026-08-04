@@ -1,0 +1,12 @@
+DOMAIN,chatgpt.com,DIRECT
+DOMAIN-SUFFIX,chatgpt.com,DIRECT
+DOMAIN,api.openai.com,DIRECT
+DOMAIN-SUFFIX,openai.com,DIRECT
+DOMAIN,oaistatic.com,DIRECT
+DOMAIN-SUFFIX,oaistatic.com,DIRECT
+DOMAIN,oaiusercontent.com,DIRECT
+DOMAIN-SUFFIX,oaiusercontent.com,DIRECT
+DOMAIN-SUFFIX,ke.com,DIRECT
+DOMAIN-SUFFIX,lianjia.com,DIRECT
+DOMAIN-SUFFIX,ljcdn.com,DIRECT
+IP-CIDR,10.36.28.67/32,DIRECT
