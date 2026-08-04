@@ -16,11 +16,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [356. Python 篇三：函数、参数、返回值与模块](https://liguwe.site/blog/356)
 - [355. Python 篇二：变量、字符串、列表、元组与字典](https://liguwe.site/blog/355)
 - [354. Python 篇一：装饰器、async 与类型、函数参数默认值](https://liguwe.site/blog/354)
 - [349. 博客：For FDE or For POC，应该如何选择默认技术栈？](https://liguwe.site/blog/349)
 - [344. AgentX：词频统计（词袋）和 word2vec：文字怎样变成可比较的数字？](https://liguwe.site/blog/344)
-- [343. AgentX：语言人工智能能完成哪些工作？](https://liguwe.site/blog/343)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
