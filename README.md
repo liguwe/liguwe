@@ -16,11 +16,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [358. Python 篇五：一个 HTTP 请求怎样串起 FastAPI 后端开发全貌？](https://liguwe.site/blog/358)
 - [357. Python 篇四：类、对象、继承与数据模型定义](https://liguwe.site/blog/357)
 - [356. Python 篇三：函数、参数、返回值与模块](https://liguwe.site/blog/356)
 - [355. Python 篇二：变量、字符串、列表、元组与字典](https://liguwe.site/blog/355)
 - [354. Python 篇一：装饰器、async 与类型、函数参数默认值](https://liguwe.site/blog/354)
-- [349. 博客：For FDE or For POC，应该如何选择默认技术栈？](https://liguwe.site/blog/349)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
